@@ -9,6 +9,7 @@ setup(name="duet",
         'sklearn',
         'pandas',
         'diffprivlib',
-        'scikit-learn'
+        'scikit-learn',
+        'matplotlib'
       ],
       packages=["duet"])
