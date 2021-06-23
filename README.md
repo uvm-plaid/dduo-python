@@ -23,6 +23,14 @@ example notebooks using the Binder service.
 * Additional examples: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/uvm-plaid/dduo-python/HEAD?filepath=notebooks%2FAdditional%20Examples.ipynb)
 * Gradient descent: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/uvm-plaid/dduo-python/HEAD?filepath=notebooks%2FGradient%20Descent.ipynb)
 
+## Install DDuo
+
+To install DDuo locally:
+
+1. Clone this repo
+2. Navigate to the `dduo-python` directory
+3. Type `pip install .` to install DDuo using `pip`
+
 ## Contributors
 * [Chike Abuah](https://www.uvm.edu/~cabuah/)
 * Alex Silence
